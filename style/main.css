@@ -263,7 +263,3 @@ footer p {
     color: #ffffff;
     margin: 8px 0;
 }
-@media (max-width: 760px) {
-    .menu--bar {display: none;}
-  }
- 
