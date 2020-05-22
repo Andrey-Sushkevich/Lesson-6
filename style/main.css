@@ -24,7 +24,7 @@ h2{
     color: #FFFFFF;
     font-family: 'Cherry Swash', 'Arimo', Arial, sans-serif;
     font-weight: 400;
-    font-size: 40px;
+    font-size: calc( 14px + 1.86vw);
 }
 .navi{
     margin: 28px auto 29px 183px; 
@@ -42,7 +42,7 @@ h2{
 }
 
 a{
-    font-size: 18px;
+    font-size: calc( 14px + 0.28vw);
     font-family: 'Arimo';
     font-weight: lighter;
     color: #FFFFFF;
@@ -75,14 +75,14 @@ h1{
     padding-bottom: 46px;
     color: #E4E4E4;
     font-family: 'Arimo',sans-serif;
-    font-size: 44px;
+    font-size: calc( 14px + 2.14vw);
     font-weight: 700;
 }
 
 button{
     width: 234px;
     height: 47px;
-    font-size: 30px;
+    font-size: calc( 14px + 1.15vw);
     font-family: 'Arimo',sans-serif;
     font-weight: 400;
     color:#E4E4E4;
@@ -122,7 +122,7 @@ button{
 }
 
 h3{
-    font-size: 30px;
+    font-size: calc( 14px + 1.15vw);
     font-family: 'Arimo',sans-serif; 
     margin-top: 100px;
     color: #4C505D;
@@ -130,9 +130,9 @@ h3{
 }
 
 p{
-    margin-top:39px;
+    margin-top: 39px;
     color: #4C505D;
-    font-size: 14px;
+    font-size: calc( 10px + 0.028vw);
     font-family: 'Arimo',sans-serif;
     font-weight: 400;
 }
@@ -170,14 +170,14 @@ p{
 }
 
 h4{
-    font-size: 26px;
+    font-size: calc( 14px + 0.85vw);
     color:#E4E4E4;
     font-family: 'Arimo',sans-serif;
     font-weight: 700; 
 }
 
 .words{
-    font-size: 18px;
+    font-size: calc( 14px + 0.28vw);
     margin-bottom: 94px;
     color: 	#FFFFFF;
     font-family: 'Arimo',sans-serif;
@@ -215,9 +215,8 @@ h4{
     opacity:0.5;
     color:#4C505D;
     font-family: 'Arimo',sans-serif;
-    font-size:14px;
+    font-size:calc( 10px + 0.028vw);
     font-weight: 400;
-    
     }
 
  .email{
@@ -228,7 +227,7 @@ h4{
     opacity:0.5;
     color:#4C505D;
     font-family: 'Arimo',sans-serif;
-    font-size:14px;
+    font-size:calc( 10px + 0.028vw);
     font-weight: 400;
  }
 
@@ -240,7 +239,7 @@ h4{
     opacity:0.5;
     color:#4C505D;
     font-family: 'Arimo',sans-serif;
-    font-size:14px;
+    font-size:calc( 10px + 0.028vw);
     font-weight: 400;
 } 
 
@@ -259,7 +258,7 @@ footer {
 
 footer p {
     font-family: 'Arimo', sans-serif;
-    font-size: 14px;
+    font-size: calc( 10px + 0.028vw);
     color: #ffffff;
     margin: 8px 0;
 }
